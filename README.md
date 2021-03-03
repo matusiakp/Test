@@ -10,10 +10,10 @@ I made on my printer to improve the quality of the prints.
 1. [AUTOLEVEL with BLTouch](#head4)
 1. [Increase the stability](#head5)
 1. [E3D V6 HOTEND](#head6)
-1. [E3D V6 HOTEND](#head6)
-1. [E3D V6 HOTEND](#head6)
-1. [E3D V6 HOTEND](#head6)
-1. [E3D V6 HOTEND](#head6)
+1. [E3D V6 HOTEND](#head7)
+1. [E3D V6 HOTEND](#head8)
+1. [E3D V6 HOTEND](#head9)
+1. [E3D V6 HOTEND](#head10)
 
 ## Power Supply 24V for BED <a name="head1"></a>
 Some introduction text, formatted.
