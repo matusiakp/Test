@@ -1,21 +1,48 @@
 # Tronxy X5S Upgrades and Mods
 
-Want to improve your Tronxy X5S? I want to present my upgrades and mods for Tronxy X5Swhich I made on my printer to improve the quality of the prints.
+Want to improve your Tronxy X5S? I want to present my upgrades and mods for Tronxy X5S which 
+I made on my printer to improve the quality of the prints.
 
 # Table of contents
-1. [Power Supply 24V for BED](#BED)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+1. [Power Supply 24V for BED](#BEDSUPPLY)
+2. [MOSFET for HOTEND and BED](#MOSFET)
+3. [E3D V6 HOTEND](#E3D)
+4. [AUTOLEVEL with BLTouch] (#BLTOUCH)
+5. [Increase the stability] (#STABILITY)
+6. [Glass and Bed Holders] (#GLASS)
+7. [BMG Extruder] (#BMG)
+8. [BMG Extruder] (#BMG)
+9. [BMG Extruder] (#BMG)
+10. [BMG Extruder] (#BMG)
 
-## Power Supply 24V for BED <a name="BED"></a>
+
+## Power Supply 24V for BED <a name="BEDSUPPLY"></a>
 Some introduction text, formatted in heading 2 style
 
-## Some paragraph <a name="paragraph1"></a>
+## MOSFET for HOTEND and BED <a name="MOSFET"></a>
 The first paragraph text
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+## E3D V6 HOTEND <a name="paragraph2"></a>
+The second paragraph text
 
-## Another paragraph <a name="paragraph2"></a>
+## AUTOLEVEL with BLTouch <a name="BLTOUCH"></a>
+It is an easy and cheap fix to increase the stability of the Tronxy X5S with brackets are fastened in the corners the left and right side. 
+Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
+
+## Increase the stability <a name="STABILITY"></a>
+The second paragraph text
+
+## Glass and Bed Holders <a name="GLASS"></a>
+The second paragraph text
+
+## BMG Extruder <a name="BMG"></a>
+The second paragraph text
+
+## BMG Extruder <a name="BMG"></a>
+The second paragraph text
+
+## BMG Extruder <a name="BMG"></a>
+The second paragraph text
+
+## BMG Extruder <a name="BMG"></a>
 The second paragraph text
