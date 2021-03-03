@@ -8,7 +8,7 @@ I made on my printer to improve the quality of the prints.
 2. [MOSFET for HOTEND and BED](#head2)
 3. [E3D V6 HOTEND](#head3)
 3. [E3D V6 HOTEND](#head3)
-3. [E3D V6 HOTEND](#head3)
+3. [E3D V6 HOTEND](#head4)
 3. [E3D V6 HOTEND](#head3)
 4. [AUTOLEVEL with BLTouch] (#head4)
 5. [Increase the stability] (#head5)
