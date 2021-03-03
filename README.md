@@ -1,6 +1,6 @@
-#Tronxy X5S Upgrades and Mods
+# Tronxy X5S Upgrades and Mods
 
-Want to improve your Tronxy X5S? 
+Want to improve your Tronxy X5S?<br>
 I want to present my upgrades and mods for Tronxy X5S which I made on my printer to improve the quality of the prints.
 
 # Table of contents
