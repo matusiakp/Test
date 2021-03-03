@@ -38,11 +38,4 @@ The second paragraph text
 ## BMG Extruder <a name="BMG"></a>
 The second paragraph text
 
-## BMG Extruder <a name="BMG"></a>
-The second paragraph text
-
-## BMG Extruder <a name="BMG"></a>
-The second paragraph text
-
-## BMG Extruder <a name="BMG"></a>
 The second paragraph text
