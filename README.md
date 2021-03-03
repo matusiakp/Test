@@ -11,8 +11,8 @@ I made on my printer to improve the quality of the prints.
 3. [Increase the stability](#head5)
 3. [E3D V6 HOTEND](#head6)
 4. [AUTOLEVEL with BLTouch] (#head4)
-5. [Increase the stability] (#head5)
-6. [Glass and Bed Holders] (#head6)
+5. [Glass and Bed Holders] (#head5)
+6. [BMG Extruder] (#head6)
 7. [BMG Extruder] (#head7)
 
 
