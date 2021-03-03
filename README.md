@@ -14,7 +14,7 @@ I made on my printer to improve the quality of the prints.
 
 
 ## Power Supply 24V for BED <a name="BEDSUPPLY"></a>
-Some introduction text, formatted in heading 2 style
+Some introduction text, formatted.
 
 ## MOSFET for HOTEND and BED <a name="MOSFET"></a>
 The first paragraph text
@@ -26,11 +26,11 @@ The second paragraph text
 It is an easy and cheap fix to increase the stability of the Tronxy X5S with brackets are fastened in the corners the left and right side. 
 Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
 
-## Increase the stability <a name="STABILITY"></a>
-The second paragraph text
+## Increase the stability <a name="MOSFET"></a>
+The second text
 
 ## Glass and Bed Holders <a name="GLASS"></a>
 The second paragraph text
 
 ## BMG Extruder <a name="BMG"></a>
-The second paragraph text
+The second 
