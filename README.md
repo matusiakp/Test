@@ -5,15 +5,15 @@ I made on my printer to improve the quality of the prints.
 
 # Table of contents
 1. [Power Supply 24V for BED](#head1)
-2. [MOSFET for HOTEND and BED](#head2)
-3. [E3D V6 HOTEND](#head3)
-3. [AUTOLEVEL with BLTouch](#head4)
-3. [Increase the stability](#head5)
-3. [E3D V6 HOTEND](#head6)
-4. [AUTOLEVEL with BLTouch] (#head4)
-5. [Glass and Bed Holders] (#head5)
-6. [BMG Extruder] (#head6)
-7. [BMG Extruder] (#head7)
+1. [MOSFET for HOTEND and BED](#head2)
+1. [E3D V6 HOTEND](#head3)
+1. [AUTOLEVEL with BLTouch](#head4)
+1. [Increase the stability](#head5)
+1. [E3D V6 HOTEND](#head6)
+1. [AUTOLEVEL with BLTouch] (#head4)
+1. [Glass and Bed Holders] (#head5)
+1. [BMG Extruder] (#head6)
+1. [BMG Extruder] (#head7)
 
 
 ## Power Supply 24V for BED <a name="head1"></a>
