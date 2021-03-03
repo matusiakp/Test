@@ -1,15 +1,14 @@
 # Tronxy X5S Upgrades and Mods
 
-Want to improve your Tronxy X5S?<br>
-I want to present my upgrades and mods for Tronxy X5S<br> which I made on my printer to improve the quality of the prints.
+Want to improve your Tronxy X5S? I want to present my upgrades and mods for Tronxy X5Swhich I made on my printer to improve the quality of the prints.
 
 # Table of contents
-1. [Introduction](#introduction)
+1. [Power Supply 24V for BED](#BED)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
+## Power Supply 24V for BED <a name="BED"></a>
 Some introduction text, formatted in heading 2 style
 
 ## Some paragraph <a name="paragraph1"></a>
