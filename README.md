@@ -22,7 +22,7 @@ Some introduction text, formatted in heading 2 style
 ## MOSFET for HOTEND and BED <a name="MOSFET"></a>
 The first paragraph text
 
-## E3D V6 HOTEND <a name="paragraph2"></a>
+## E3D V6 HOTEND <a name="E3D"></a>
 The second paragraph text
 
 ## AUTOLEVEL with BLTouch <a name="BLTOUCH"></a>
