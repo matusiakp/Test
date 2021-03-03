@@ -11,9 +11,6 @@ I made on my printer to improve the quality of the prints.
 5. [Increase the stability] (#STABILITY)
 6. [Glass and Bed Holders] (#GLASS)
 7. [BMG Extruder] (#BMG)
-8. [BMG Extruder] (#BMG)
-9. [BMG Extruder] (#BMG)
-10. [BMG Extruder] (#BMG)
 
 
 ## Power Supply 24V for BED <a name="BEDSUPPLY"></a>
@@ -36,6 +33,4 @@ The second paragraph text
 The second paragraph text
 
 ## BMG Extruder <a name="BMG"></a>
-The second paragraph text
-
 The second paragraph text
