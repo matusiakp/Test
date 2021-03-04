@@ -33,8 +33,8 @@ Some introduction text, formatted.
 The first paragraph text
 
 ## E3D V6 HOTEND <a name="head3"></a>
-The second paragraph text
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="100" height="300" alt="New">
+The second paragraph text <br>
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" alt="New"> <br>
 | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="100" height="300" alt="New"> | Table |
 
 ## AUTOLEVEL with BLTouch <a name="head4"></a>
