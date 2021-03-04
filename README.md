@@ -36,10 +36,10 @@ The first paragraph text
 The second paragraph text <br>
 <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" alt="New"> <br>
 
-Tabelka |
---- | --- | ---
-| <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
 
+<center>Text</center>
+| <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
+--- | --- | ---
 
 
 ## AUTOLEVEL with BLTouch <a name="head4"></a>
