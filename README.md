@@ -3,6 +3,18 @@
 Want to improve your Tronxy X5S? I want to present my upgrades and mods for Tronxy X5S which 
 I made on my printer to improve the quality of the prints.
 
+
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" alt="New"> <br>
+
+
+#### <p align="center">I am started frot that:</p>
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
+--- | --- | ---
+
+#### <p align="center">And now it look like this:</p>
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
+--- | --- | ---
+
 # Table of contents
 1. [Power Supply 24V for BED](#head1)
 2. [MOSFET for HOTEND and BED](#head2)
@@ -34,12 +46,7 @@ The first paragraph text
 
 ## E3D V6 HOTEND <a name="head3"></a>
 The second paragraph text <br>
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" alt="New"> <br>
 
-
-# <p align="center">Lorem ipsum </p>
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
---- | --- | ---
 
 
 ## AUTOLEVEL with BLTouch <a name="head4"></a>
