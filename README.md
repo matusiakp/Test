@@ -34,7 +34,7 @@ The first paragraph text
 
 ## E3D V6 HOTEND <a name="head3"></a>
 The second paragraph text
-
+![alt text](https://github.com/matusiakp/Test/Photo/Origin_1.jpg "Logo Title Text 1")
 ## AUTOLEVEL with BLTouch <a name="head4"></a>
 It is an easy and cheap fix to increase the stability of the Tronxy X5S with brackets are fastened in the corners the left and right side. 
 Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
