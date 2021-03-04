@@ -31,29 +31,31 @@ I made on my printer to improve the quality of the prints.
 
 
 ## X-Y-Axis Modification <a name="head1"></a>
-Some introduction text, formatted.
-
+https://www.thingiverse.com/thing:2815168 x-y modi
+Also I printed a nem mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, but I improved the design by strengthening the structure and improving the assembly.
 ## Z-Axis Modification <a name="head2"></a>
 The first paragraph text
-
+https://www.thingiverse.com/thing:3352437 z bushing
 ## Glass and Bed Holders <a name="head3"></a>
-The second paragraph text
-
+https://www.thingiverse.com/thing:3216157 knob
+https://www.thingiverse.com/thing:2633636 bed holders
 ## Increase the stability <a name="head4"></a>
 It is an easy and cheap fix to increase the stability of the Tronxy X5S with brackets are fastened in the corners the left and right side. 
 Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
 
+https://www.thingiverse.com/thing:2771055 corner
+
 ## Top Cable Chain <a name="head5"></a>
-The second text
+https://www.thingiverse.com/thing:2809623
 
 ## Spool and Filament Holder <a name="head6"></a>
-The second paragraph text
+https://www.thingiverse.com/thing:2129670 spool holder
 
 ## MOSFET for Hotend and Bed <a name="head7"></a>
-The second 
+https://www.thingiverse.com/thing:2086107 dual mosfet 
 
 ## Power Switch Mount and Power Supply Holder <a name="head8"></a>
-The second 
+https://www.thingiverse.com/thing:2717705 inspiracja od sebego
 
 ## Power Supply 24V for Bed <a name="head9"></a>
 The second 
@@ -70,7 +72,7 @@ The second
 
 
 ## BMG Extruder <a name="head13"></a>
-The second 
+https://www.thingiverse.com/thing:2717705 fan cooler and bmg extruder
 
 
 ## Autolevel with BLTouch <a name="head14"></a>
@@ -78,7 +80,7 @@ The second
 
 
 ## LCD Case and secend LCD with Touch Screen <a name="head15"></a>
-The second 
+https://www.thingiverse.com/thing:2627194 lcd 
 
 
 
