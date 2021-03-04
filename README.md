@@ -37,7 +37,7 @@ The second paragraph text <br>
 <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" alt="New"> <br>
 
 
-<center>Text</center>
+<center>Text</center><br>
 | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
 --- | --- | ---
 
