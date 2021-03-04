@@ -34,9 +34,9 @@ The first paragraph text
 
 ## E3D V6 HOTEND <a name="head3"></a>
 The second paragraph text
-![NEW](https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg "Origin Printer")
-<img src="ORIGIN_1.jpg" width="100" alt="Origin Printer")>
-[<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="100">]
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="100" height="300" alt="New">
+| <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="100" height="300" alt="New"> | Table |
+
 ## AUTOLEVEL with BLTouch <a name="head4"></a>
 It is an easy and cheap fix to increase the stability of the Tronxy X5S with brackets are fastened in the corners the left and right side. 
 Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
