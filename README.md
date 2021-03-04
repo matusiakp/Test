@@ -35,7 +35,11 @@ The first paragraph text
 ## E3D V6 HOTEND <a name="head3"></a>
 The second paragraph text <br>
 <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" alt="New"> <br>
-| <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="100" height="300" alt="New"> | Table |
+
+| <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | 
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> |
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="200" alt="New"> |
+| ------------- |:-------------:| -----:|
 
 ## AUTOLEVEL with BLTouch <a name="head4"></a>
 It is an easy and cheap fix to increase the stability of the Tronxy X5S with brackets are fastened in the corners the left and right side. 
