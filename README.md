@@ -3,11 +3,11 @@
 Want to improve your Tronxy X5S? I want to present my upgrades and mods for Tronxy X5S which 
 I made on my printer to improve the quality of the prints.
 
-#### <p align="center">I am started frot that:</p>
+### <p align="center">I am started frot that:</p>
 <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
 --- | --- | ---
 
-#### <p align="center">And now it look like this:</p>
+### <p align="center">And now it look like this:</p>
 <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
 --- | --- | ---
 
