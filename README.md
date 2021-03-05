@@ -35,6 +35,11 @@ All information about assembly can be found on the thingiverse (link below).
 Also I printed a new mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, 
 but I improved the design by strengthening the structure and improving the assembly. <br><br>
 
+X-Y-Axis Mod | Motor Tower 
+--- | --- 
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="330" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="330" alt="New">
+
+
 Download step:<br>
 <a href="???">X-Y-Axis Mods</a><br>
 <a href="???">Motor Tower</a><br><br>
@@ -98,14 +103,17 @@ Download step:<br>
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2809623">Top Cable Chain</a><br>
 
-
 ## Spool and Filament Holder <a name="head6"></a>
 
 Download step:<br>
-<a href="???">Spool holder</a><br><br>
+<a href="???">Spool holder</a><br>
+<a href="???">Master spool</a><br>
+<a href="???">Filament spool holder</a><br><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2129670">Spool holder</a><br>
+<a href="https://www.thingiverse.com/thing:3187986">Master spool</a><br>
+<a href="https://www.thingiverse.com/thing:1241566">Filament spool holder</a><br>
 
 ## MOSFET for Hotend and Bed <a name="head7"></a>
 
@@ -121,7 +129,7 @@ Download step:<br>
 <a href="???">???</a><br><br>
 
 Link to thingiverse:<br>
-<a href="https://www.thingiverse.com/thing:2717705">??</a><br>
+<a href="https://www.thingiverse.com/thing:2717705">Supply & Cable Holder SgaboLab</a><br>
 
 
 ## Power Supply 24V for Bed <a name="head9"></a>
@@ -136,6 +144,8 @@ Rather than have your print bed overcompensate for a cool room, and require extr
 
 ## E3D V6 Hotend <a name="head10"></a>
 The second 
+Download step:<br>
+<a href="???">Hotend holder and backplate</a><br><br>
 
 ## Fan Cooler and Hotend Mount <a name="head11"></a>
 The second 
@@ -149,8 +159,13 @@ Link to thingiverse:<br>
 ## 32BIT Board (SKR 1.3) <a name="head12"></a>
 The second 
 
+Download step:<br>
+<a href="???">Skr 1.3 holder</a><br>
 
-## BMG Extruder <a name="head13"></a>
+Dawnload Marlin 2.0 for my Tronxy X5S:
+<a href="???">Marlin 2.0</a><br><br>
+
+## Change bearings and V-slot <a name="head13"></a>
 bmg extruder
 
 
