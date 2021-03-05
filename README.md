@@ -53,14 +53,14 @@ Link to thingiverse:<br>
 Another important right was to stabilize the table, which at first could lose its level. 
 In addition, I bought linear slide bearing RJ4JP-01 from igus (x16) and trapezoidal nut eliminating play (x2).
 Important issue is to remove the stabilizer bearing that stresses the trapezoidal bolt.
-This mods allowed me to obtain a rigid table structure. <br><br>
+This mods allowed me to obtain a rigid table structure.
 
 Z-Axis Mod | Z-Axis Mod | Remove the stabilizer bearing | Trapezoidal nut eliminating play 
 --- | --- | --- | ---
 <img src="https://github.com/matusiakp/Test/blob/master/Photo/Z_axis_mods_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New">
 
 Download step:<br>
-<a href="???">Z-Axis Mods</a><br><br>
+<a href="???">Z-Axis Mods</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:3352437">Z-Axis Mods</a><br>
@@ -70,7 +70,12 @@ The standard printing bed of the Tronxy X5S may be OK for the first steps in 3D 
 But you will quickly realize that the filament does not stick well to it and changing the blue-tape constantly is also not an option. 
 For this reason, you should get a glass bed. Borosilicate glass is your weapon of choice, because it is shows high chemical resistance 
 and allows for high temperatures. Glass with Dimafix guaranted very good adhesion of the first layer to the table. You can also print my
-holder for Dimafix Can.<br><br>
+holder for Dimafix Can.<br>
+
+Knob | Bed Holders | Bed Holders | Dimafix Holder 
+--- | --- | --- | ---
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/Z_axis_mods_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New">
+
 
 Download step:<br>
 <a href="???">Knob</a><br>
@@ -89,9 +94,14 @@ project from thingiverse, it is smaller so I could mount it in every corner). On
 another corner bracket you can choose the version you like best.
 Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
 
+Corner bracket | Stabilization brace  
+--- | --- 
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> 
+
+
 Download step:<br>
 <a href="???">Corner bracket</a><br>
-<a href="???">Stabilization brace</a><br><br>
+<a href="???">Stabilization brace</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2771055">Corner bracket 1</a><br>
@@ -103,7 +113,7 @@ Link to thingiverse:<br>
 ## Top Cable Chain <a name="head5"></a>
 
 Download step:<br>
-<a href="???">Top Cable Chain</a><br><br>
+<a href="???">Top Cable Chain</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2809623">Top Cable Chain</a><br>
@@ -113,7 +123,7 @@ Link to thingiverse:<br>
 Download step:<br>
 <a href="???">Spool holder</a><br>
 <a href="???">Master spool</a><br>
-<a href="???">Filament spool holder</a><br><br>
+<a href="???">Filament spool holder</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2129670">Spool holder</a><br>
@@ -123,7 +133,7 @@ Link to thingiverse:<br>
 ## MOSFET for Hotend and Bed <a name="head7"></a>
 
 Download step:<br>
-<a href="???">Dual MOSFET holder</a><br><br>
+<a href="???">Dual MOSFET holder</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2086107">Dual MOSFET holder</a><br>
@@ -131,7 +141,7 @@ Link to thingiverse:<br>
 ## Power Switch Mount and Power Supply Holder <a name="head8"></a>
 
 Download step:<br>
-<a href="???">???</a><br><br>
+<a href="???">???</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2717705">Supply & Cable Holder SgaboLab</a><br>
@@ -150,13 +160,13 @@ Rather than have your print bed overcompensate for a cool room, and require extr
 ## E3D V6 Hotend <a name="head10"></a>
 The second 
 Download step:<br>
-<a href="???">Hotend holder and backplate</a><br><br>
+<a href="???">Hotend holder and backplate</a><br>
 
 ## Fan Cooler and Hotend Mount <a name="head11"></a>
 The second 
 
 Download step:<br>
-<a href="???">BMG extruder holder</a><br><br>
+<a href="???">BMG extruder holder</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2717705">BMG extruder holder</a><br>
@@ -168,7 +178,7 @@ Download step:<br>
 <a href="???">Skr 1.3 holder</a><br>
 
 Dawnload Marlin 2.0 for my Tronxy X5S:
-<a href="???">Marlin 2.0</a><br><br>
+<a href="???">Marlin 2.0</a><br>
 
 ## Change bearings and V-slot <a name="head13"></a>
 bmg extruder
@@ -181,7 +191,7 @@ The second wqqqsdfweq
 ## LCD Case and secend LCD with Touch Screen <a name="head15"></a>
 
 Download step:<br>
-<a href="???">LCD case</a><br><br>
+<a href="???">LCD case</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2627194">LCD case</a><br>
