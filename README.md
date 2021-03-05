@@ -33,11 +33,12 @@ I have printed a few enhancements for the Tronxy X5S to improve the XY axis.
 Thanks to these modifications, I improved the stability of the carriage and better belt guidance. 
 All information about assembly can be found on the thingiverse (link below).
 Also I printed a new mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, 
-but I improved the design by strengthening the structure and improving the assembly. <br><br>
+but I improved the design by strengthening the structure and improving the assembly. 
+Remember to print the second motor tower as a mirror.<br><br>
 
-X-Y-Axis Mod | Motor Tower 
---- | --- 
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="330" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="330" alt="New">
+X-Y-Axis Mod | X-Y-Axis Mod | Motor Tower | Motor Tower 
+--- | --- | --- | ---
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New">
 
 
 Download step:<br>
@@ -53,6 +54,10 @@ Another important right was to stabilize the table, which at first could lose it
 In addition, I bought linear slide bearing RJ4JP-01 from igus (x16) and trapezoidal nut eliminating play (x2).
 Important issue is to remove the stabilizer bearing that stresses the trapezoidal bolt.
 This mods allowed me to obtain a rigid table structure. <br><br>
+
+Z-Axis Mod | Z-Axis Mod | Remove the stabilizer bearing | Trapezoidal nut eliminating play 
+--- | --- | --- | ---
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New">
 
 Download step:<br>
 <a href="???">Z-Axis Mods</a><br><br>
