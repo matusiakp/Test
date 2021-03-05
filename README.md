@@ -32,24 +32,36 @@ I made on my printer to improve the quality of the prints.
 
 ## X-Y-Axis Modification <a name="head1"></a>
 I have printed a few enhancements for the Tronxy X5S to improve the XY axis. Thanks to these modifications, I improved the stability of the stroller and better belt guidance. All information about assembly can be found on the thingiverse (link below) </a> <br>
-Also I printed a nem mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, but I improved the design by strengthening the structure and improving the assembly. <br>
+Also I printed a nem mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, but I improved the design by strengthening the structure and improving the assembly. <br><br>
 Download step:<br>
 <a href="???">X-Y-Axis Mods</a><br>
-<a href="???">Motor Tower</a><br>
-Link to thingiverse
+<a href="???">Motor Tower</a><br><br>
+Link to thingiverse:
 <a href="https://www.thingiverse.com/thing:2815168">X-Y-Axis Mods</a><br>
 <a href="https://www.thingiverse.com/thing:2717656">Motor Tower SgaboLab</a><br>
 ## Z-Axis Modification <a name="head2"></a>
 The first paragraph text
 https://www.thingiverse.com/thing:3352437 z bushing
 ## Glass and Bed Holders <a name="head3"></a>
-https://www.thingiverse.com/thing:3216157 knob
-https://www.thingiverse.com/thing:2633636 bed holders
+
+Download step:<br>
+<a href="???">Knob</a><br>
+<a href="???">Bed Holders</a><br><br>
+Link to thingiverse:
+<a href="https://www.thingiverse.com/thing:3216157">Knob</a><br>
+<a href="https://www.thingiverse.com/thing:2633636">Bed Holders SgaboLab</a><br>
 ## Increase the stability <a name="head4"></a>
 It is an easy and cheap fix to increase the stability of the Tronxy X5S with brackets are fastened in the corners the left and right side. 
 Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
 
-https://www.thingiverse.com/thing:2771055 corner
+ corner
+
+Download step:<br>
+<a href="???">Corner</a><br>
+<a href="???">???</a><br><br>
+Link to thingiverse:
+<a href="https://www.thingiverse.com/thing:2771055">Corner</a><br>
+<a href="https://www.thingiverse.com/thing:2633636">???</a><br>
 
 ## Top Cable Chain <a name="head5"></a>
 https://www.thingiverse.com/thing:2809623
