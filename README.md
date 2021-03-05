@@ -28,38 +28,49 @@ I made on my printer to improve the quality of the prints.
 14. [Autolevel with BLTouch](#head14)
 15. [LCD Case and secend LCD with Touch Screen](#head15)
 
-
-
 ## X-Y-Axis Modification <a name="head1"></a>
 I have printed a few enhancements for the Tronxy X5S to improve the XY axis. 
 Thanks to these modifications, I improved the stability of the carriage and better belt guidance. 
 All information about assembly can be found on the thingiverse (link below) </a> <br>
 Also I printed a nem mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, 
 but I improved the design by strengthening the structure and improving the assembly. <br><br>
+
 Download step:<br>
 <a href="???">X-Y-Axis Mods</a><br>
 <a href="???">Motor Tower</a><br><br>
+
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2815168">X-Y-Axis Mods</a><br>
 <a href="https://www.thingiverse.com/thing:2717656">Motor Tower SgaboLab</a><br>
+
 ## Z-Axis Modification <a name="head2"></a>
 Another important right was to stabilize the table, which at first could lose its level. 
 In addition, I bought linear slide bearing RJ4JP-01 from igus (x16) and trapezoidal nut eliminating play (x2).
 Important issue is to remove the stabilizer bearing that stresses the trapezoidal bolt.
 This mods allowed me to obtain a rigid table structure. <br><br>
+
 Download step:<br>
 <a href="???">Z-Axis Mods</a><br><br>
+
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:3352437">Z-Axis Mods</a><br>
 
 ## Glass and Bed Holders <a name="head3"></a>
+The standard printing bed of the Tronxy X5S may be OK for the first steps in 3D printing. 
+But you will quickly realize that the filament does not stick well to it and changing the blue-tape constantly is also not an option. 
+For this reason, you should get a glass bed. Borosilicate glass is your weapon of choice, because it is shows high chemical resistance 
+and allows for high temperatures. Glass with Dimafix guaranted very good adhesion of the first layer to the table. You can also print my
+holder for Dimafix Can.<br><br>
 
 Download step:<br>
 <a href="???">Knob</a><br>
-<a href="???">Bed Holders</a><br><br>
-Link to thingiverse:
+<a href="???">Bed Holders</a><br>
+<a href="???">Dimafix Holder</a><br><br>
+
+Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:3216157">Knob</a><br>
 <a href="https://www.thingiverse.com/thing:2633636">Bed Holders SgaboLab</a><br>
+
 ## Increase the stability <a name="head4"></a>
 Mounting bracket in the corners is an easy and cheap fix to increase the stability of the Tronxy X5S. 
 Because the Tronxy X5S is quite high and the main emphasis is mostly also on the top
@@ -71,6 +82,7 @@ Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and in
 Download step:<br>
 <a href="???">Corner bracket</a><br>
 <a href="???">Stabilization brace</a><br><br>
+
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2771055">Corner bracket 1</a><br>
 <a href="https://www.thingiverse.com/thing:2878626">Corner bracket 2</a><br>
