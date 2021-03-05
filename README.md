@@ -31,17 +31,27 @@ I made on my printer to improve the quality of the prints.
 
 
 ## X-Y-Axis Modification <a name="head1"></a>
-I have printed a few enhancements for the Tronxy X5S to improve the XY axis. Thanks to these modifications, I improved the stability of the stroller and better belt guidance. All information about assembly can be found on the thingiverse (link below) </a> <br>
-Also I printed a nem mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, but I improved the design by strengthening the structure and improving the assembly. <br><br>
+I have printed a few enhancements for the Tronxy X5S to improve the XY axis. 
+Thanks to these modifications, I improved the stability of the carriage and better belt guidance. 
+All information about assembly can be found on the thingiverse (link below) </a> <br>
+Also I printed a nem mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, 
+but I improved the design by strengthening the structure and improving the assembly. <br><br>
 Download step:<br>
 <a href="???">X-Y-Axis Mods</a><br>
 <a href="???">Motor Tower</a><br><br>
-Link to thingiverse:
+Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2815168">X-Y-Axis Mods</a><br>
 <a href="https://www.thingiverse.com/thing:2717656">Motor Tower SgaboLab</a><br>
 ## Z-Axis Modification <a name="head2"></a>
-The first paragraph text
-https://www.thingiverse.com/thing:3352437 z bushing
+Another important right was to stabilize the table, which at first could lose its level. 
+In addition, I bought linear slide bearing RJ4JP-01 from igus (x16) and trapezoidal nut eliminating play (x2).
+Important issue is to remove the stabilizer bearing that stresses the trapezoidal bolt.
+This mods allowed me to obtain a rigid table structure. <br><br>
+Download step:<br>
+<a href="???">Z-Axis Mods</a><br><br>
+Link to thingiverse:<br>
+<a href="https://www.thingiverse.com/thing:3352437">Z-Axis Mods</a><br>
+
 ## Glass and Bed Holders <a name="head3"></a>
 
 Download step:<br>
@@ -55,16 +65,17 @@ Mounting bracket in the corners is an easy and cheap fix to increase the stabili
 Because the Tronxy X5S is quite high and the main emphasis is mostly also on the top
 I created that brace to stabilize the frame for fast, short movements (my version is a modification
 project from thingiverse, it is smaller so I could mount it in every corner). On the thingiverse you can find 
-another bracket you can choose the version you like best
+another corner bracket you can choose the version you like best.
 Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
 
 Download step:<br>
 <a href="???">Corner bracket</a><br>
 <a href="???">Stabilization brace</a><br><br>
-Link to thingiverse:
+Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2771055">Corner bracket 1</a><br>
 <a href="https://www.thingiverse.com/thing:2878626">Corner bracket 2</a><br>
 <a href="https://www.thingiverse.com/thing:2753168">Corner bracket 3</a><br>
+<a href="https://www.thingiverse.com/thing:2850306">Corner bracket 4</a><br>
 <a href="https://www.thingiverse.com/thing:3117578">Stabilization brace</a><br>
 
 ## Top Cable Chain <a name="head5"></a>
