@@ -31,11 +31,14 @@ I made on my printer to improve the quality of the prints.
 
 
 ## X-Y-Axis Modification <a name="head1"></a>
-I have printed a few enhancements for the Tronxy X5S to improve the XY axis. Thanks to these modifications, I improved the stability of the stroller and better belt guidance. All information about assembly can be found on the <a href="https://www.thingiverse.com/thing:2815168">thingiverse</a> <br>
+I have printed a few enhancements for the Tronxy X5S to improve the XY axis. Thanks to these modifications, I improved the stability of the stroller and better belt guidance. All information about assembly can be found on the thingiverse (link below) </a> <br>
 Also I printed a nem mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, but I improved the design by strengthening the structure and improving the assembly. <br>
-Download step:
-<a href="https://www.thingiverse.com/thing:2815168">X-Y-Axis Mods</a>
-<a href="???">Motor Tower</a>
+Download step:<br>
+<a href="???">X-Y-Axis Mods</a><br>
+<a href="???">Motor Tower</a><br>
+Link to thingiverse
+<a href="https://www.thingiverse.com/thing:2815168">X-Y-Axis Mods</a><br>
+<a href="https://www.thingiverse.com/thing:2717656">Motor Tower SgaboLab</a><br>
 ## Z-Axis Modification <a name="head2"></a>
 The first paragraph text
 https://www.thingiverse.com/thing:3352437 z bushing
