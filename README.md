@@ -57,7 +57,7 @@ This mods allowed me to obtain a rigid table structure. <br><br>
 
 Z-Axis Mod | Z-Axis Mod | Remove the stabilizer bearing | Trapezoidal nut eliminating play 
 --- | --- | --- | ---
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New">
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/Z_axis_mods_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New">
 
 Download step:<br>
 <a href="???">Z-Axis Mods</a><br><br>
