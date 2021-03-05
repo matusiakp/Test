@@ -16,7 +16,7 @@ I made on my printer to improve the quality of the prints.
 2. [Z-Axis Modification](#head2)
 3. [Glass and Bed Holders](#head3)
 4. [Increase the stability](#head4)
-5. [Top Cable Chain](#head5)
+5. [Top Mount Cable Chain](#head5)
 6. [Spool and Filament Holder](#head6)
 7. [MOSFET for Hotend and Bed](#head7)
 8. [Power Switch Mount and Power Supply Holder](#head8)
@@ -51,7 +51,7 @@ Link to thingiverse:<br>
 
 ## Z-Axis Modification <a name="head2"></a>
 Another important right was to stabilize the table, which at first could lose its level. 
-In addition, I bought linear slide bearing RJ4JP-01 from igus (x16) and trapezoidal nut eliminating play (x2).
+For best result I bought linear slide bearing RJ4JP-01 from igus (x16) and trapezoidal nut eliminating play (x2).
 Important issue is to remove the stabilizer bearing that stresses the trapezoidal bolt.
 This mods allowed me to obtain a rigid table structure.
 
@@ -70,7 +70,7 @@ The standard printing bed of the Tronxy X5S may be OK for the first steps in 3D 
 But you will quickly realize that the filament does not stick well to it and changing the blue-tape constantly is also not an option. 
 For this reason, you should get a glass bed. Borosilicate glass is your weapon of choice, because it is shows high chemical resistance 
 and allows for high temperatures. Glass with Dimafix guaranted very good adhesion of the first layer to the table. You can also print my
-holder for Dimafix Can.<br>
+holder for Dimafix can. For fast bed level I printed a Knob.<br>
 
 Knob | Bed Holders | Bed Holders | Dimafix Holder 
 --- | --- | --- | ---
@@ -110,18 +110,19 @@ Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2850306">Corner bracket 4</a><br>
 <a href="https://www.thingiverse.com/thing:3117578">Stabilization brace</a><br>
 
-## Top Cable Chain <a name="head5"></a>
+## Top Mount Cable Chain <a name="head5"></a>
+While mounting my X5S i found that the cable chain weight pull up the carriage to one side and presses on belt ,so i printed part to mount it on top , 
+it also uses less chain.For this mod you must buy two 608 bearing.
 
-Problem with orginal cabel chain | Top cabel chain 
+Problem with orginal cabel chain | Top mount cabel chain 
 --- | --- 
 <img src="https://github.com/matusiakp/Test/blob/master/Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="300" alt="New"> 
 
-
 Download step:<br>
-<a href="???">Top Cable Chain</a><br>
+<a href="???">Top Mount Cable Chain</a><br>
 
 Link to thingiverse:<br>
-<a href="https://www.thingiverse.com/thing:2809623">Top Cable Chain</a><br>
+<a href="https://www.thingiverse.com/thing:2809623">Top Mount Cable Chain</a><br>
 
 ## Spool and Filament Holder <a name="head6"></a>
 
