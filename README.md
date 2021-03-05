@@ -112,6 +112,11 @@ Link to thingiverse:<br>
 
 ## Top Cable Chain <a name="head5"></a>
 
+Corner bracket | Stabilization brace  
+--- | --- 
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/Top_cabel_chain_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> 
+
+
 Download step:<br>
 <a href="???">Top Cable Chain</a><br>
 
