@@ -51,22 +51,26 @@ Link to thingiverse:
 <a href="https://www.thingiverse.com/thing:3216157">Knob</a><br>
 <a href="https://www.thingiverse.com/thing:2633636">Bed Holders SgaboLab</a><br>
 ## Increase the stability <a name="head4"></a>
-It is an easy and cheap fix to increase the stability of the Tronxy X5S with brackets are fastened in the corners the left and right side. 
+Mounting bracket in the corners is an easy and cheap fix to increase the stability of the Tronxy X5S. 
+Because the Tronxy X5S is quite high and the main emphasis is mostly also on the top
+I created that brace to stabilize the frame for fast, short movements (my version is a modification
+project from thingiverse, it is smaller so I could mount it in every corner). On the thingiverse you can find 
+another bracket you can choose the version you like best
 Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
 
- corner
-
 Download step:<br>
-<a href="???">Corner</a><br>
-<a href="???">???</a><br><br>
+<a href="???">Corner bracket</a><br>
+<a href="???">Stabilization brace</a><br><br>
 Link to thingiverse:
-<a href="https://www.thingiverse.com/thing:2771055">Corner</a><br>
-<a href="https://www.thingiverse.com/thing:2633636">???</a><br>
+<a href="https://www.thingiverse.com/thing:2771055">Corner bracket 1</a><br>
+<a href="https://www.thingiverse.com/thing:2878626">Corner bracket 2</a><br>
+<a href="https://www.thingiverse.com/thing:2753168">Corner bracket 3</a><br>
+<a href="https://www.thingiverse.com/thing:3117578">Stabilization brace</a><br>
 
 ## Top Cable Chain <a name="head5"></a>
 https://www.thingiverse.com/thing:2809623
 
-## Spool and Filament Holder <a name="head6"></a>
+## Spool and Filament Holder <a name="head6"></a>fast
 https://www.thingiverse.com/thing:2129670 spool holder
 
 ## MOSFET for Hotend and Bed <a name="head7"></a>
