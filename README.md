@@ -31,8 +31,8 @@ I made on my printer to improve the quality of the prints.
 ## X-Y-Axis Modification <a name="head1"></a>
 I have printed a few enhancements for the Tronxy X5S to improve the XY axis. 
 Thanks to these modifications, I improved the stability of the carriage and better belt guidance. 
-All information about assembly can be found on the thingiverse (link below) </a> <br>
-Also I printed a nem mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, 
+All information about assembly can be found on the thingiverse (link below).
+Also I printed a new mount for motor. I was inspired by <a href="https://www.thingiverse.com/thing:2717656">SgaboLab</a> idea, 
 but I improved the design by strengthening the structure and improving the assembly. <br><br>
 
 Download step:<br>
@@ -91,19 +91,48 @@ Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:3117578">Stabilization brace</a><br>
 
 ## Top Cable Chain <a name="head5"></a>
-https://www.thingiverse.com/thing:2809623
 
-## Spool and Filament Holder <a name="head6"></a>fast
-https://www.thingiverse.com/thing:2129670 spool holder
+Download step:<br>
+<a href="???">Top Cable Chain</a><br><br>
+
+Link to thingiverse:<br>
+<a href="https://www.thingiverse.com/thing:2809623">Top Cable Chain</a><br>
+
+
+## Spool and Filament Holder <a name="head6"></a>
+
+Download step:<br>
+<a href="???">Spool holder</a><br><br>
+
+Link to thingiverse:<br>
+<a href="https://www.thingiverse.com/thing:2129670">Spool holder</a><br>
 
 ## MOSFET for Hotend and Bed <a name="head7"></a>
-https://www.thingiverse.com/thing:2086107 dual mosfet 
+
+Download step:<br>
+<a href="???">Dual MOSFET holder</a><br><br>
+
+Link to thingiverse:<br>
+<a href="https://www.thingiverse.com/thing:2086107">Dual MOSFET holder</a><br>
 
 ## Power Switch Mount and Power Supply Holder <a name="head8"></a>
-https://www.thingiverse.com/thing:2717705 inspiracja od sebego
+
+Download step:<br>
+<a href="???">???</a><br><br>
+
+Link to thingiverse:<br>
+<a href="https://www.thingiverse.com/thing:2717705">??</a><br>
+
 
 ## Power Supply 24V for Bed <a name="head9"></a>
-The second 
+Great upgrade is to add a 24V power supply. I have original 12V power supply for hotend and electronic and another
+24V power supply only for bed. Using a 24V power supply unit, you can heat your print bed to a 100 C in 6 to 9 minutes.
+To be able to connect the 24V power supply, it is important to solder the cables under the table in the configuration for 24v.
+Please note, that you should buy a power supply unit with a current rating of at least 20A / 480W, or even better 25A / 600W.
+
+To reduce temperature dispersion, I buy a Self-Adhesive Aluminum Insulation Mat 300mm x 300mm.
+These lightweight insulation mats work really well to keep your 3D printer beds warm throughout the printing process. 
+Rather than have your print bed overcompensate for a cool room, and require extra heating, we can keep that heat in better.
 
 ## E3D V6 Hotend <a name="head10"></a>
 The second 
@@ -111,21 +140,32 @@ The second
 ## Fan Cooler and Hotend Mount <a name="head11"></a>
 The second 
 
+Download step:<br>
+<a href="???">BMG extruder holder</a><br><br>
+
+Link to thingiverse:<br>
+<a href="https://www.thingiverse.com/thing:2717705">BMG extruder holder</a><br>
 
 ## 32BIT Board (SKR 1.3) <a name="head12"></a>
 The second 
 
 
 ## BMG Extruder <a name="head13"></a>
-https://www.thingiverse.com/thing:2717705 fan cooler and bmg extruder
+bmg extruder
 
 
 ## Autolevel with BLTouch <a name="head14"></a>
-The second 
+The second wqqqsdfweq
 
 
 ## LCD Case and secend LCD with Touch Screen <a name="head15"></a>
-https://www.thingiverse.com/thing:2627194 lcd 
+
+Download step:<br>
+<a href="???">LCD case</a><br><br>
+
+Link to thingiverse:<br>
+<a href="https://www.thingiverse.com/thing:2627194">LCD case</a><br>
+
 
 
 
