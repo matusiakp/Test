@@ -65,6 +65,8 @@ Download step:<br>
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:3352437">Z-Axis Mods</a><br>
 
+<a href="https://www.thingiverse.com/thing:2760703">Anti Z wobble not recommend</a><br>
+
 ## Glass and Bed Holders <a name="head3"></a>
 The standard printing bed of the Tronxy X5S may be OK for the first steps in 3D printing. 
 But you will quickly realize that the filament does not stick well to it and changing the blue-tape constantly is also not an option. 
@@ -118,11 +120,13 @@ Problem with orginal cabel chain | Top mount cabel chain
 --- | --- 
 <img src="https://github.com/matusiakp/Test/blob/master/Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="300" alt="New"> 
 
+if you do not want to use this solution, I suggest printing a stiffening bracket for mounting orginal cable chain holder. 
 Download step:<br>
 <a href="???">Top Mount Cable Chain</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2809623">Top Mount Cable Chain</a><br>
+<a href="https://www.thingiverse.com/thing:3355599">Stable cable chain holder</a><br>
 
 ## Spool and Filament Holder <a name="head6"></a>
 For the efficient replacement of the filament, I was able to combine three very good solutions from thingiverse.
@@ -168,7 +172,7 @@ Link to thingiverse:<br>
 
 ## Power Switch Mount and Power Supply Holder <a name="head8"></a>
 This might seem like a simple addition to the Tronxy X5S, but a power switch should be welcomed 
-by 3D printer users with open arms. it is a great protection in the event of a short circuit because 
+by 3D printer users with open arms. It is a great protection in the event of a short circuit because 
 the switch contains a fuse.  I designed my own bracket for mounting the power supply on the plate at the back of the printer, 
 which also has the ability to mount power switch.
 
@@ -178,10 +182,12 @@ Schematic | Power Supply Holder
 
 
 Download step:<br>
-<a href="???">???</a><br>
+<a href="???">Power Supply Holder</a><br>
+<a href="???">Power Supply and Switch Holder</a><br>
 
 Link to thingiverse:<br>
-<a href="https://www.thingiverse.com/thing:2717705">Power Supply Holder</a><br>
+<a href="https://www.thingiverse.com/thing:2717705">Power Supply Holder SgaboLab</a><br>
+<a href="http://www.thingiverse.com/thing:2078936">Power Supply Holder</a><br>
 
 
 ## Power Supply 24V for Bed <a name="head9"></a>
@@ -201,13 +207,20 @@ Download step:<br>
 <a href="???">Hotend holder and backplate</a><br>
 
 ## Fan Cooler and Hotend Mount <a name="head11"></a>
-The second 
+When 3D printing with certain materials, a nozzle fan helps to cool freshly extruded plastic and 
+keep the 3D print in tip-top quality. In its stock format, the Tronxy X5S does include one of these fans, 
+but the original cooling fan blows only from one direction. 
+A more efficient cooling fan can easily be 3D printed. To cool printed filament from two directions, 
+you can print this Tronxy X5S upgrade. This unique design blows air from two sides towards the nozzle, 
+greatly improving the overall quality of your 3D prints.
 
 Download step:<br>
-<a href="???">BMG extruder holder</a><br>
+<a href="???">Fan cooler</a><br>
 
 Link to thingiverse:<br>
-<a href="https://www.thingiverse.com/thing:2717705">BMG extruder holder</a><br>
+<a href="https://www.thingiverse.com/thing:3436250">BMG extruder holder and fan</a><br>
+<a href="https://www.thingiverse.com/thing:2633989">BMG extruder bowden holder</a><br>
+<a href="https://www.thingiverse.com/thing:2799683">Backplate for orinal carriage</a><br>
 
 ## 32BIT Board (SKR 1.3) <a name="head12"></a>
 The second 
@@ -236,6 +249,7 @@ Download step:<br>
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2627194">LCD case</a><br>
 
-
+http://www.thingiverse.com/thing:3268408 thermometerbox
+http://www.thingiverse.com/thing:2494642 hotend mount e3d v6 bowden
 
 
