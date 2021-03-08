@@ -82,7 +82,7 @@ Knob | Bed Holders | Bed Holders | Dimafix Holder
 Download step:<br>
 <a href="???">Knob</a><br>
 <a href="???">Bed Holders</a><br>
-<a href="???">Dimafix Holder</a><br><br>
+<a href="???">Dimafix Holder</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:3216157">Knob</a><br>
@@ -139,6 +139,7 @@ Second is Spool Hub, designed to make spool change-outs quick and easy.
 Accommodates spools with a center hole of 50mm - 65mm.
 
 Third is Filament spool holder to shorten the distance between the spool and the extruder.
+
 Download step:<br>
 <a href="???">Spool hub</a><br>
 <a href="???">Master spool</a><br>
@@ -203,7 +204,8 @@ Rather than have your print bed overcompensate for a cool room, and require extr
 ## E3D V6 Hotend <a name="head10"></a>
 The second 
 
-Download step:<br>
+Do
+wnload step:<br>
 <a href="???">Hotend holder and backplate</a><br>
 
 ## Fan Cooler and Hotend Mount <a name="head11"></a>
@@ -228,12 +230,15 @@ The second
 Download step:<br>
 <a href="???">Skr 1.3 holder</a><br>
 
+Link to thingiverse:<br>
+<a href="https://www.thingiverse.com/thing:3639615">SKR 1.3 Holder with 120mm Fan</a><br>
+
 Dawnload Marlin 2.0 for my Tronxy X5S:
 <a href="???">Marlin 2.0</a><br>
 
 ## Change bearings and V-slot <a name="head13"></a>
 bmg extruder
-
++ 
 
 ## Autolevel with BLTouch <a name="head14"></a>
 The second wqqqsdfweq
