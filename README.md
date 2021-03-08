@@ -112,7 +112,7 @@ Link to thingiverse:<br>
 
 ## Top Mount Cable Chain <a name="head5"></a>
 While mounting my X5S i found that the cable chain weight pull up the carriage to one side and presses on belt ,so i printed part to mount it on top , 
-it also uses less chain.For this mod you must buy two 608 bearing.
+it also uses less chain. For this mod you must buy two 608 bearings.
 
 Problem with orginal cabel chain | Top mount cabel chain 
 --- | --- 
@@ -125,9 +125,18 @@ Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2809623">Top Mount Cable Chain</a><br>
 
 ## Spool and Filament Holder <a name="head6"></a>
+For the efficient replacement of the filament, I was able to combine three very good solutions from thingiverse.
 
+Firs is a Master Spool. It is a reusable spool for which you can buy cheaper filament for example "Refill Fiberlogy".
+The main advantages are cost and reduced waste. You are also being kinder to the 
+environment by reducing waste.  You will no longer have an empty spool to deal with.
+
+Second is Spool Hub, designed to make spool change-outs quick and easy. 
+Accommodates spools with a center hole of 50mm - 65mm.
+
+Third is Filament spool holder to shorten the distance between the spool and the extruder.
 Download step:<br>
-<a href="???">Spool holder</a><br>
+<a href="???">Spool hub</a><br>
 <a href="???">Master spool</a><br>
 <a href="???">Filament spool holder</a><br>
 
@@ -137,6 +146,19 @@ Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:1241566">Filament spool holder</a><br>
 
 ## MOSFET for Hotend and Bed <a name="head7"></a>
+The addition of a MOSFET is one of the most important Tronxy X5S upgrades you can buy. 
+The most common use of the MOSFET with the Tronxy X5S 3D printer is to regulate the high workload 
+that the heated bed places upon the mainboard. The high current of the hot bed can lead 
+to stress for the mainboard connectors, and increases the possibility of a fire hazard 
+or hardware malfunction. Aside from the safety benefits, the MOSFET also allows users to 
+apply a second power supply unit (PSU), which will drastically reduce the time it takes 
+your heated bed to reach its set temperature. I used to two MOSFET for Bed and Hotend for reduce current
+on the mainboard.
+
+Schematic | Dual MOSFET holder 
+--- | --- 
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="300" alt="New"> 
+
 
 Download step:<br>
 <a href="???">Dual MOSFET holder</a><br>
@@ -145,12 +167,21 @@ Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2086107">Dual MOSFET holder</a><br>
 
 ## Power Switch Mount and Power Supply Holder <a name="head8"></a>
+This might seem like a simple addition to the Tronxy X5S, but a power switch should be welcomed 
+by 3D printer users with open arms. it is a great protection in the event of a short circuit because 
+the switch contains a fuse.  I designed my own bracket for mounting the power supply on the plate at the back of the printer, 
+which also has the ability to mount power switch.
+
+Schematic | Power Supply Holder 
+--- | --- 
+<img src="https://github.com/matusiakp/Test/blob/master/Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="300" alt="New"> 
+
 
 Download step:<br>
 <a href="???">???</a><br>
 
 Link to thingiverse:<br>
-<a href="https://www.thingiverse.com/thing:2717705">Supply & Cable Holder SgaboLab</a><br>
+<a href="https://www.thingiverse.com/thing:2717705">Power Supply Holder</a><br>
 
 
 ## Power Supply 24V for Bed <a name="head9"></a>
@@ -165,6 +196,7 @@ Rather than have your print bed overcompensate for a cool room, and require extr
 
 ## E3D V6 Hotend <a name="head10"></a>
 The second 
+
 Download step:<br>
 <a href="???">Hotend holder and backplate</a><br>
 
@@ -193,6 +225,8 @@ bmg extruder
 ## Autolevel with BLTouch <a name="head14"></a>
 The second wqqqsdfweq
 
+Download step:<br>
+<a href="???">BLTouch holder</a><br>
 
 ## LCD Case and secend LCD with Touch Screen <a name="head15"></a>
 
