@@ -43,7 +43,7 @@ X-Y-Axis Mod | X-Y-Axis Mod | Motor Tower | Motor Tower
 
 Download step:<br>
 <a href="???">X-Y-Axis Mods</a><br>
-<a href="???">Motor Tower</a><br><br>
+<a href="???">Motor Tower</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2815168">X-Y-Axis Mods</a><br>
