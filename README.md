@@ -96,9 +96,9 @@ project from thingiverse, it is smaller so I could mount it in every corner). On
 another corner bracket you can choose the version you like best.
 Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and increase the quality of your prints.
 
-Corner bracket | Stabilization brace  
---- | --- 
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> 
+| Corner bracket and Stabilization brace |
+| --- | 
+| <img src="Photo/Corner.jpg" width="400" alt="New"> |
 
 
 Download step:<br>
@@ -118,7 +118,7 @@ it also uses less chain. For this mod you must buy two 608 bearings.
 
 Problem with orginal cabel chain | Top mount cabel chain 
 --- | --- 
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="300" alt="New"> 
+<img src="Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="Photo/My_Printer_3.jpg" width="300" alt="New"> 
 
 if you do not want to use this solution, I suggest printing a stiffening bracket for mounting orginal cable chain holder. 
 Download step:<br>
@@ -139,6 +139,11 @@ Second is Spool Hub, designed to make spool change-outs quick and easy.
 Accommodates spools with a center hole of 50mm - 65mm.
 
 Third is Filament spool holder to shorten the distance between the spool and the extruder.
+
+Spool Holder| Assembly of three mods | Assembly of three mods 
+--- | --- | --- | ---
+<img src="Photo/Spool_Holder.jpg" width="200" alt="New"> | <img src="Photo/Spool_Holder_1.jpg" width="200" alt="New"> | <img src="Photo/Spool_Holder_2.jpg" width="200" alt="New"> 
+
 
 Download step:<br>
 <a href="???">Spool hub</a><br>
@@ -162,7 +167,7 @@ on the mainboard.
 
 Schematic | Dual MOSFET holder 
 --- | --- 
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="300" alt="New"> 
+<img src="Photo/Schematic_1.jpg" width="300" alt="New"> | <img src="Photo/Dual_Mosfet_Mount.jpg" width="300" alt="New"> 
 
 
 Download step:<br>
@@ -177,18 +182,18 @@ by 3D printer users with open arms. It is a great protection in the event of a s
 the switch contains a fuse.  I designed my own bracket for mounting the power supply on the plate at the back of the printer, 
 which also has the ability to mount power switch.
 
-Schematic | Power Supply Holder 
---- | --- 
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="300" alt="New"> 
+Schematic | Power Supply with Switch Holder | | Power Supply with Switch Holder
+--- | --- | ---
+<img src="Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="Photo/Power_Supply and_Switch_Holder_1.jpg" width="300" alt="New"> | <img src="Photo/Power_Supply and_Switch_Holder_2.jpg" width="300" alt="New"> 
 
 
 Download step:<br>
 <a href="???">Power Supply Holder</a><br>
-<a href="???">Power Supply and Switch Holder</a><br>
+<a href="???">Power Supply with Switch Holder</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:2717705">Power Supply Holder SgaboLab</a><br>
-<a href="http://www.thingiverse.com/thing:2078936">Power Supply Holder</a><br>
+<a href="http://www.thingiverse.com/thing:2078936">Power Supply with Switch Holder</a><br>
 
 
 ## Power Supply 24V for Bed <a name="head9"></a>
@@ -248,6 +253,10 @@ Download step:<br>
 <a href="???">BLTouch holder</a><br>
 
 ## LCD Case and secend LCD with Touch Screen <a name="head15"></a>
+
+Orginal LCD case from Tronxy | TFT32 TouchScreen Case
+--- | --- 
+<img src="Photo/LCD_case_1.jpg" width="300" alt="New"> | <img src="Photo/LCD_case_2.jpg" width="300" alt="New"> 
 
 Download step:<br>
 <a href="???">LCD case</a><br>
