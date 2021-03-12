@@ -59,7 +59,7 @@ Z-Axis Mod | Z-Axis Mod | Remove the stabilizer bearing | Trapezoidal nut elimin
 <img src="Photo/Z_Axis_Mods_1.jpg" width="200"> | <img src="Photo/Z_Axis_Mods_3.jpg" width="200"> | <img src="Photo/Z_Axis_Mods_2.jpg" width="200"> | <img src="Photo/Z_Axis_Mods_2.jpg" width="200">
 
 Download step:<br>
-<a href="???">Z-Axis Mods</a><br>
+<a href="https://github.com/matusiakp/Test/tree/master/3D%20Model/Z_axis_mods">Z-Axis Mods</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:3352437">Z-Axis Mods</a><br>
@@ -79,9 +79,9 @@ Knob | Bed Holders | Bed Holders | Dimafix Holder
 
 
 Download step:<br>
-<a href="???">Knob</a><br>
-<a href="???">Bed Holders</a><br>
-<a href="???">Dimafix Holder</a><br>
+<a href="https://github.com/matusiakp/Test/tree/master/3D%20Model/Knob_Level">Knob</a><br>
+<a href="https://github.com/matusiakp/Test/tree/master/3D%20Model/Bed_Holder">Bed Holders</a><br>
+<a href="https://github.com/matusiakp/Test/tree/master/3D%20Model/Dimafix_Holder">Dimafix Holder</a><br>
 
 Link to thingiverse:<br>
 <a href="https://www.thingiverse.com/thing:3216157">Knob</a><br>
