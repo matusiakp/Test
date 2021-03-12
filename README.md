@@ -8,7 +8,7 @@ I made on my printer to improve the quality of the prints.
 --- | --- | ---
 
 ### <p align="center">And now it look like this:</p>
-<img src="Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="Photo/ORIGIN_3.jpg" width="270" alt="New"> 
+<img src="Photo/My_Printer_3.jpg" width="270" alt="New"> | <img src="Photo/My_Printer_2.jpg" width="270" alt="New"> |<img src="Photo/My_Printer_1" width="270" alt="New"> 
 --- | --- | ---
 
 # Table of contents
@@ -38,7 +38,7 @@ Remember to print the second motor tower as a mirror.<br><br>
 
 X-Y-Axis Mod | X-Y-Axis Mod | Motor Tower | Motor Tower 
 --- | --- | --- | ---
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New">
+<img src="Photo/XY_Axis_Mods_1" width="200" alt="New"> | <img src="Photo/XY_Axis_Mods_2" width="200" alt="New"> | <img src="Photo/Motor_Tower_1.jpg" width="200" alt="New"> | <img src="Photo/Motor_Tower_2.jpg" width="200" alt="New">
 
 
 Download step:<br>
