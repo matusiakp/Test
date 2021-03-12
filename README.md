@@ -4,7 +4,7 @@ Want to improve your Tronxy X5S? I want to present my upgrades and mods for Tron
 I made on my printer to improve the quality of the prints.
 
 ### <p align="center">I am started frot that:</p>
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
+<img src="Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_3.jpg" width="270" alt="New"> 
 --- | --- | ---
 
 ### <p align="center">And now it look like this:</p>
@@ -207,6 +207,7 @@ The second
 Do
 wnload step:<br>
 <a href="???">Hotend holder and backplate</a><br>
+
 
 ## Fan Cooler and Hotend Mount <a name="head11"></a>
 When 3D printing with certain materials, a nozzle fan helps to cool freshly extruded plastic and 
