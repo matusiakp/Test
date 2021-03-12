@@ -57,7 +57,7 @@ This mods allowed me to obtain a rigid table structure.
 
 Z-Axis Mod | Z-Axis Mod | Remove the stabilizer bearing | Trapezoidal nut eliminating play 
 --- | --- | --- | ---
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/Z_axis_mods_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New">
+<img src="Photo/Z_Axis_Mods_1.jpg" width="200" alt="New"> | <img src="Photo/Z_Axis_Mods_3.jpg" width="200" alt="New"> | <img src="Photo/Z_Axis_Mods_2.jpg" width="200" alt="New"> | <img src="Photo/Z_Axis_Mods_2.jpg" width="200" alt="New">
 
 Download step:<br>
 <a href="???">Z-Axis Mods</a><br>
@@ -76,7 +76,7 @@ holder for Dimafix can. For fast bed level I printed a Knob.<br>
 
 Knob | Bed Holders | Bed Holders | Dimafix Holder 
 --- | --- | --- | ---
-<img src="https://github.com/matusiakp/Test/blob/master/Photo/Z_axis_mods_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_1.jpg" width="200" alt="New"> | <img src="https://github.com/matusiakp/Test/blob/master/Photo/ORIGIN_2.jpg" width="200" alt="New">
+<img src="Photo/Bed_Holder_1.jpg" width="200" alt="New"> | <img src="Photo/Bed_Holder_2.jpg" width="200" alt="New"> | <img src="Photo/Bed_Holder_3.jpg" width="200" alt="New"> | <img src="Photo/Dimafix_Holder_2.jpg" width="200" alt="New">
 
 
 Download step:<br>
