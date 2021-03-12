@@ -8,7 +8,7 @@ I made on my printer to improve the quality of the prints.
 --- | --- | ---
 
 ### <p align="center">And now it look like this:</p>
-<img src="Photo/My_Printer_3.jpg" width="270" alt="New"> | <img src="Photo/My_Printer_2.jpg" width="270" alt="New"> |<img src="Photo/My_Printer_1" width="270" alt="New"> 
+<img src="Photo/My_Printer_3.jpg" width="270" alt="New"> | <img src="Photo/My_Printer_2.jpg" width="270" alt="New"> |<img src="Photo/My_Printer_1.jpg" width="270" alt="New"> 
 --- | --- | ---
 
 # Table of contents
