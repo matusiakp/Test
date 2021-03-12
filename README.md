@@ -1,14 +1,13 @@
 # Tronxy X5S Upgrades and Mods
 
-Want to improve your Tronxy X5S? I want to present my upgrades and mods for Tronxy X5S which 
-I made on my printer to improve the quality of the prints.
+Want to improve your Tronxy X5S? I want to present my upgrades and mods for Tronxy X5S which I made on my printer to improve the quality of the prints.
 
-### <p align="center">I am started frot that:</p>
-<img src="Photo/ORIGIN_1.jpg" width="270" alt="New"> | <img src="Photo/ORIGIN_2.jpg" width="270" alt="New"> |<img src="Photo/ORIGIN_3.jpg" width="270" alt="New"> 
+### <p align="center">I am started from that:</p>
+<img src="Photo/ORIGIN_1.jpg" width="270"> | <img src="Photo/ORIGIN_2.jpg" width="270"> |<img src="Photo/ORIGIN_3.jpg" width="270"> 
 --- | --- | ---
 
 ### <p align="center">And now it look like this:</p>
-<img src="Photo/My_Printer_3.jpg" width="270" alt="New"> | <img src="Photo/My_Printer_2.jpg" width="270" alt="New"> |<img src="Photo/My_Printer_1.jpg" width="270" alt="New"> 
+<img src="Photo/My_Printer_3.jpg" width="270"> | <img src="Photo/My_Printer_2.jpg" width="270"> |<img src="Photo/My_Printer_1.jpg" width="270"> 
 --- | --- | ---
 
 # Table of contents
@@ -38,7 +37,7 @@ Remember to print the second motor tower as a mirror.<br><br>
 
 X-Y-Axis Mod | X-Y-Axis Mod | Motor Tower | Motor Tower 
 --- | --- | --- | ---
-<img src="Photo/XY_Axis_Mods_1.jpg" width="200" alt="New"> | <img src="Photo/XY_Axis_Mods_2.jpg" width="200" alt="New"> | <img src="Photo/Motor_Tower_1.jpg" width="200" alt="New"> | <img src="Photo/Motor_Tower_2.jpg" width="200" alt="New">
+<img src="Photo/XY_Axis_Mods_1.jpg" width="200"> | <img src="Photo/XY_Axis_Mods_2.jpg" width="200"> | <img src="Photo/Motor_Tower_1.jpg" width="200"> | <img src="Photo/Motor_Tower_2.jpg" width="200">
 
 
 Download step:<br>
@@ -57,7 +56,7 @@ This mods allowed me to obtain a rigid table structure.
 
 Z-Axis Mod | Z-Axis Mod | Remove the stabilizer bearing | Trapezoidal nut eliminating play 
 --- | --- | --- | ---
-<img src="Photo/Z_Axis_Mods_1.jpg" width="200" alt="New"> | <img src="Photo/Z_Axis_Mods_3.jpg" width="200" alt="New"> | <img src="Photo/Z_Axis_Mods_2.jpg" width="200" alt="New"> | <img src="Photo/Z_Axis_Mods_2.jpg" width="200" alt="New">
+<img src="Photo/Z_Axis_Mods_1.jpg" width="200"> | <img src="Photo/Z_Axis_Mods_3.jpg" width="200"> | <img src="Photo/Z_Axis_Mods_2.jpg" width="200"> | <img src="Photo/Z_Axis_Mods_2.jpg" width="200">
 
 Download step:<br>
 <a href="???">Z-Axis Mods</a><br>
@@ -76,7 +75,7 @@ holder for Dimafix can. For fast bed level I printed a Knob.<br>
 
 Knob | Bed Holders | Bed Holders | Dimafix Holder 
 --- | --- | --- | ---
-<img src="Photo/Bed_Holder_1.jpg" width="200" alt="New"> | <img src="Photo/Bed_Holder_2.jpg" width="200" alt="New"> | <img src="Photo/Bed_Holder_3.jpg" width="200" alt="New"> | <img src="Photo/Dimafix_Holder_2.jpg" width="200" alt="New">
+<img src="Photo/Bed_Holder_1.jpg" width="200"> | <img src="Photo/Bed_Holder_3.jpg" width="200"> | <img src="Photo/Bed_Holder_2.jpg" width="200"> | <img src="Photo/Dimafix_Holder_2.jpg" width="200">
 
 
 Download step:<br>
@@ -98,7 +97,7 @@ Adding this simple Tronxy X5S upgrade will prevent the frame from flexing and in
 
 | Corner bracket and Stabilization brace |
 | --- | 
-| <img src="Photo/Corner.jpg" width="400" alt="New"> |
+| <img src="Photo/Corner.jpg" width="500"> |
 
 
 Download step:<br>
@@ -118,9 +117,9 @@ it also uses less chain. For this mod you must buy two 608 bearings.
 
 Problem with orginal cabel chain | Top mount cabel chain 
 --- | --- 
-<img src="Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="Photo/My_Printer_3.jpg" width="300" alt="New"> 
+<img src="Photo/Top_cabel_chain_1.jpg" width="350"> | <img src="Photo/My_Printer_3.jpg" width="350"> 
 
-if you do not want to use this solution, I suggest printing a stiffening bracket for mounting orginal cable chain holder. 
+If you do not want to use this solution, I suggest printing a stiffening bracket for mounting orginal cable chain holder. 
 Download step:<br>
 <a href="???">Top Mount Cable Chain</a><br>
 
@@ -142,7 +141,7 @@ Third is Filament spool holder to shorten the distance between the spool and the
 
 Spool Holder| Assembly of three mods | Assembly of three mods 
 --- | --- | ---
-<img src="Photo/Spool_Holder.jpg" width="200" alt="New"> | <img src="Photo/Spool_Holder_1.jpg" width="200" alt="New"> | <img src="Photo/Spool_Holder_2.jpg" width="200" alt="New"> 
+<img src="Photo/Spool_Holder.jpg" width="270"> | <img src="Photo/Spool_Holder_1.jpg" width="270"> | <img src="Photo/Spool_Holder_2.jpg" width="270"> 
 
 
 Download step:<br>
@@ -167,7 +166,7 @@ on the mainboard.
 
 Schematic | Dual MOSFET holder 
 --- | --- 
-<img src="Photo/Schematic_1.jpg" width="300" alt="New"> | <img src="Photo/Dual_Mosfet_Mount.jpg" width="300" alt="New"> 
+<img src="Photo/Schematic_1.jpg" width="350"> | <img src="Photo/Dual_Mosfet_Mount.jpg" width="350"> 
 
 
 Download step:<br>
@@ -184,7 +183,7 @@ which also has the ability to mount power switch.
 
 Schematic | Power Supply with Switch Holder | Power Supply with Switch Holder
 --- | --- | ---
-<img src="Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="Photo/Power_Supply and_Switch_Holder_1.jpg" width="300" alt="New"> | <img src="Photo/Power_Supply and_Switch_Holder_2.jpg" width="300" alt="New"> 
+<img src="Photo/Top_cabel_chain_1.jpg" width="270" > | <img src="Photo/Power_Supply and_Switch_Holder_1.jpg" width="270"> | <img src="Photo/Power_Supply and_Switch_Holder_2.jpg" width="270"> 
 
 
 Download step:<br>
@@ -209,8 +208,7 @@ Rather than have your print bed overcompensate for a cool room, and require extr
 ## E3D V6 Hotend <a name="head10"></a>
 The second 
 
-Do
-wnload step:<br>
+Download step:<br>
 <a href="???">Hotend holder and backplate</a><br>
 
 
@@ -256,7 +254,7 @@ Download step:<br>
 
 Orginal LCD case from Tronxy | TFT32 TouchScreen Case
 --- | --- 
-<img src="Photo/LCD_case_1.jpg" width="300" alt="New"> | <img src="Photo/LCD_case_2.jpg" width="300" alt="New"> 
+<img src="Photo/LCD_case_1.jpg" width="350"> | <img src="Photo/LCD_case_2.jpg" width="350"> 
 
 Download step:<br>
 <a href="???">LCD case</a><br>
