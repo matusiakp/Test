@@ -38,7 +38,7 @@ Remember to print the second motor tower as a mirror.<br><br>
 
 X-Y-Axis Mod | X-Y-Axis Mod | Motor Tower | Motor Tower 
 --- | --- | --- | ---
-<img src="Photo/XY_Axis_Mods_1" width="200" alt="New"> | <img src="Photo/XY_Axis_Mods_2" width="200" alt="New"> | <img src="Photo/Motor_Tower_1.jpg" width="200" alt="New"> | <img src="Photo/Motor_Tower_2.jpg" width="200" alt="New">
+<img src="Photo/XY_Axis_Mods_1.jpg" width="200" alt="New"> | <img src="Photo/XY_Axis_Mods_2.jpg" width="200" alt="New"> | <img src="Photo/Motor_Tower_1.jpg" width="200" alt="New"> | <img src="Photo/Motor_Tower_2.jpg" width="200" alt="New">
 
 
 Download step:<br>
