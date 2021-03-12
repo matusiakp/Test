@@ -141,7 +141,7 @@ Accommodates spools with a center hole of 50mm - 65mm.
 Third is Filament spool holder to shorten the distance between the spool and the extruder.
 
 Spool Holder| Assembly of three mods | Assembly of three mods 
---- | --- | --- | ---
+--- | --- | ---
 <img src="Photo/Spool_Holder.jpg" width="200" alt="New"> | <img src="Photo/Spool_Holder_1.jpg" width="200" alt="New"> | <img src="Photo/Spool_Holder_2.jpg" width="200" alt="New"> 
 
 
@@ -182,7 +182,7 @@ by 3D printer users with open arms. It is a great protection in the event of a s
 the switch contains a fuse.  I designed my own bracket for mounting the power supply on the plate at the back of the printer, 
 which also has the ability to mount power switch.
 
-Schematic | Power Supply with Switch Holder | | Power Supply with Switch Holder
+Schematic | Power Supply with Switch Holder | Power Supply with Switch Holder
 --- | --- | ---
 <img src="Photo/Top_cabel_chain_1.jpg" width="300" alt="New"> | <img src="Photo/Power_Supply and_Switch_Holder_1.jpg" width="300" alt="New"> | <img src="Photo/Power_Supply and_Switch_Holder_2.jpg" width="300" alt="New"> 
 
